@@ -1,7 +1,17 @@
 .featured-project {
   position: relative;
   min-height: 600px;
-  background: url('../../images/featured-project/1.jpg') center / cover no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+
+  &.project-1 {
+    background-image: url('../../images/featured-project/1.jpg');
+  }
+
+  &.project-2 {
+    background-image: url('../../images/featured-project/2.jpg');
+  }
 }
 
 .featured-project__content {
