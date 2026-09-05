@@ -6,6 +6,11 @@ body {
   background-color: var(--color-light);
 }
 
+a,
+button {
+  transition-duration: var(--transition-duration);
+}
+
 a {
   text-decoration: none;
   color: var(--color-dark);

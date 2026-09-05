@@ -1,0 +1,13 @@
+.header__inner {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 26px;
+  line-height: 1.6;
+}
+
+.header__overlay,
+.header__menu-list {
+  display: flex;
+  align-items: center;
+  column-gap: 32px;
+}
