@@ -1,0 +1,36 @@
+.hero {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 60px;
+  background-color: var(--color-gray-light);
+}
+
+.hero__body {
+  max-width: 600px;
+  padding: 60px 50px 40px 40px;
+}
+
+.hero__badge {
+  font-size: 14px;
+  line-height: 1.4;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--color-gray);
+
+  &:not(:last-child) {
+    margin-bottom: 20px;
+  }
+}
+
+.hero__title {
+  &:not(:last-child) {
+    margin-bottom: 18px;
+  }
+}
+
+.hero__description {
+  &:not(:last-child) {
+    margin-bottom: 30px;
+  }
+}

@@ -15,4 +15,14 @@
   &:active {
     scale: 0.97;
   }
+
+  &.transparent {
+    color: var(--color-dark);
+    background-color: transparent;
+    border-color: transparent;
+
+    &:hover {
+      border-color: currentColor;
+    }
+  }
 }
