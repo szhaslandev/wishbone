@@ -1,0 +1,28 @@
+.featured-project {
+  position: relative;
+  min-height: 600px;
+  background: url('../../images/featured-project/1.jpg') center / cover no-repeat;
+}
+
+.featured-project__content {
+  position: absolute;
+  top: 50%;
+  right: 360px;
+  translate: 50%;
+  max-width: 285px;
+  display: flex;
+  flex-direction: column;
+}
+
+.featured-project__title {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.4;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--color-gray-dark);
+}
+
+.featured-project__description {
+  color: var(--color-gray);
+}
