@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200" fill="none"><metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><rdf:Description><dc:creator>RealFaviconGenerator</dc:creator><dc:source>https://realfavicongenerator.net</dc:source></rdf:Description></rdf:RDF></metadata><g clip-path="url(#clip0_124715_4)">
+<path d="M115.381 24.3345L136.452 119.261L153.798 24.3345H189.981L157.842 175.664H120.063L99.7368 89.3574L79.9426 175.664H42.1634L10.0245 24.3345H46.2074L63.5539 119.261L84.4123 24.3345H115.381Z" fill="black"></path>
+</g><defs>
+<clipPath id="clip0_124715_4">
+<rect width="200" height="200" fill="white"></rect>
+</clipPath>
+</defs><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: invert(100%); } }
+</style></svg>
