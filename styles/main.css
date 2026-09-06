@@ -5,6 +5,7 @@
 @import 'base/globals.css';
 
 @import 'components/button.css';
+@import 'components/author-card.css';
 
 @import 'layouts/header.css';
 @import 'layouts/section.css';

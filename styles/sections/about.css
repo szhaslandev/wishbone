@@ -11,24 +11,3 @@
   row-gap: 10px;
   max-width: 500px;
 }
-
-.about__author {
-  display: flex;
-  align-items: center;
-  column-gap: 30px;
-}
-
-.about__author-image {
-  border: 3px solid var(--color-gray-light-alt);
-  border-radius: 50%;
-}
-
-.about__author-name {
-  font-size: 17px;
-}
-
-.about__author-role {
-  font-size: 14px;
-  line-height: 1;
-  color: var(--color-gray);
-}

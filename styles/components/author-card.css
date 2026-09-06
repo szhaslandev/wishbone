@@ -1,0 +1,20 @@
+.author-card {
+  display: flex;
+  align-items: center;
+  column-gap: 30px;
+}
+
+.author-card__image {
+  border: 3px solid var(--color-gray-light-alt);
+  border-radius: 50%;
+}
+
+.author-card__name {
+  font-size: 17px;
+}
+
+.author-card__role {
+  font-size: 14px;
+  line-height: 1;
+  color: var(--color-gray);
+}
